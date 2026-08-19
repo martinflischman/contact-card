@@ -1,6 +1,7 @@
 import ProfileImage from "./components/ProfileImage";
 import ProfileInfo from "./components/ProfileInfo";
 import EmailButton from "./components/EmailButton";
+import AboutSection from "./components/AboutSection";
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
         <div className="card-body items-center text-center">
           <ProfileInfo />
           <EmailButton />
+          <AboutSection />
         </div>
       </div>
     </div>
