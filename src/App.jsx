@@ -3,6 +3,7 @@ import ProfileInfo from "./components/ProfileInfo";
 import EmailButton from "./components/EmailButton";
 import AboutSection from "./components/AboutSection";
 import InterestsSection from "./components/InterestsSection";
+import SocialLinks from "./components/SocialLinks";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
           <EmailButton />
           <AboutSection />
           <InterestsSection />
+          <SocialLinks />
         </div>
       </div>
     </div>
