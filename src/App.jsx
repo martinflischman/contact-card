@@ -1,5 +1,6 @@
 import ProfileImage from "./components/ProfileImage";
 import ProfileInfo from "./components/ProfileInfo";
+import EmailButton from "./components/EmailButton";
 
 export default function App() {
   return (
@@ -8,6 +9,7 @@ export default function App() {
         <ProfileImage />
         <div className="card-body items-center text-center">
           <ProfileInfo />
+          <EmailButton />
         </div>
       </div>
     </div>
