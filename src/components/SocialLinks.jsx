@@ -2,7 +2,7 @@ function SocialLinks() {
   return (
     <>
       <div className="flex gap-5 mt-4">
-        <button className="btn btn-square btn-md bg-neutral-content/10 border-none">
+        <button className="btn btn-square btn-md bg-neutral-content/10 border-none text-white">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="2em"
@@ -16,7 +16,7 @@ function SocialLinks() {
             />
           </svg>
         </button>
-        <button className="btn btn-square btn-md bg-neutral-content/10 border-none">
+        <button className="btn btn-square btn-md bg-neutral-content/10 border-none text-white">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="2em"
@@ -30,7 +30,7 @@ function SocialLinks() {
             />
           </svg>
         </button>
-        <button className="btn btn-square btn-md bg-neutral-content/10 border-none">
+        <button className="btn btn-square btn-md bg-neutral-content/10 border-none text-white">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="2em"

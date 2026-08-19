@@ -5,7 +5,7 @@ function ProfileImage() {
         <img
           src="https://i.pravatar.cc/400?img=11"
           alt="Laura Smith"
-          className="w-full h-80 object-cover"
+          className="w-full h-72 object-cover"
         />
       </figure>
     </>
